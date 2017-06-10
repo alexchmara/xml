@@ -7,13 +7,10 @@
 <meta name="viewport" content="initial-scale=1.0" />
 
 </head>
-<body id="blogPage">
+<body>
 
-    <h1>Thank you!</h1>
-    <article class="post">
-      <h2>Please verify your data</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non  mauris orci, quis tincidunt sapien. Vestibulum sodales est ut diam  tincidunt non bibendum dui cursus. </p>
-      <p>&nbsp;</p>
+    <h1>Thank you! All the data have been sent</h1>
+
 
 </body>
 </html>
