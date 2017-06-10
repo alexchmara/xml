@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<users>
+  <new_user>
+    <user_name>Alex</user_name>
+    <email>aleksandra@bitcon.com.pl</email>
+    <mobile>000000000000</mobile>
+    <birth>1992-03-07</birth>
+  </new_user>
+  <new_user>
+    <user_name>Alex</user_name>
+    <email>aleksandra@bitcon.com.pl</email>
+    <mobile>000000000000</mobile>
+    <birth>1992-03-07</birth>
+  </new_user>
+</users>
